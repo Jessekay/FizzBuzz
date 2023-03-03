@@ -8,4 +8,3 @@
       "test": "mocha tests.js"
     }
   }
-  
